@@ -12,9 +12,9 @@ def parbaudit_punkta_koordin_trijsturim(punkta_x, punkta_y : float) -> int:
     Funkcija paņem divus parametrus punkta koordanātas x un y:
     punkta_x un punkta_y.
     Funkcija atgriež atbildes.
-    1 ja punkts uz koordinātes (punkta_x ; punkta_y) atrodas iekša taisnstūri.
-    2 ja punkts uz koordinātes (punkta_x ; punkta_y) atrodas uz taisnstūra robežlīnijas.
-    3 ja punkts uz koordinātes (punkta_x ; punkta_y) atrodas ārpusē taisnstūri.
+    1 ja punkts uz koordinātes (punkta_x ; punkta_y) atrodas iekša trijstūri.
+    2 ja punkts uz koordinātes (punkta_x ; punkta_y) atrodas uz trijstūra robežlīnijas.
+    3 ja punkts uz koordinātes (punkta_x ; punkta_y) atrodas ārpusē trijstūri.
 
     
     >>> parbaudit_punkta_koordin_trijsturim(0,-1)
